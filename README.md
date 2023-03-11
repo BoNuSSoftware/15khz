@@ -25,6 +25,7 @@
 | Acer | V223W | LCD/LED| 22 | No | | |
 | Acer | V223HQV | LCD | 22 | Yes | Workbench and games seem to work. Workbench Overscan works to almost full screen. Interlace modes flicker like chuff. | |
 | Acer | X183H | LCD/LED| 18,5 | No | | |
+| Acer | AL1916 | LCD | 19,0 | No | | |
 | Advantech | FPM-2150G-XCE | LCD | 17 | No | | |
 | AOC | 212VA | LCD/LED| 22 | No | | |
 | AOC | 716Sw | LCD | 15,6 | No | | |
@@ -77,6 +78,7 @@
 | Commodore | 1083S | CRT | 14 | Yes | | |
 | Commodore | 1084S/S-P/P/S-P2/D/S-D | CRT | 14 | Yes | | |
 | Commodore | 1950 (AOC CM314) | CRT | 14 | Yes | | |
+| Compaq | W220Q | LCD/LED| 22 | No | | |
 | Dell | 1505FP | | 15 | No | unsupported resolution' on screen in Low/Med Res (for ATARI ST) | |
 | Dell | 1702FP | | 17 | No | no display when testing low/med res (for ATARI ST) | |
 | Dell | 1901FP | | 19 | No | input signal not supported' when testing low/med res (for ATARI ST) | |
@@ -125,6 +127,7 @@
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
+| LG | 1919S | | 19 | No | | |
 | LG | 26LG30R | LCD | 26 | No | | |
 | LG | D2542P-PN | LCD | 25 | No | Back screen / "out of spec 15kHz" | New! |
 | LG | D2780D | LCD | 27 | No | Back screen / "15kHz/50Hz Invalid Format" | New! |
